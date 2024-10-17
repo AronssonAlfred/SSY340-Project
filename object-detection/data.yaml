@@ -1,5 +1,5 @@
-train: C:/Users/Alfred Aronsson/SSY340-Project/object-detection/Training/images
-val: C:/Users/Alfred Aronsson/SSY340-Project/object-detection/Validation/images
+train: /home/student/SSY340-Project/object-detection/Training/images
+val: /home/student/SSY340-Project/object-detection/Validation/images
 
-nc: 1  # Number of classes (only one class for face detection)
+nc: 1  # Number of classes (set appropriately)
 names: ['face']  # Class names
