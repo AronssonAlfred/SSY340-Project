@@ -13,3 +13,11 @@ WIDER_train.zip/
 WIDER_val.zip/
 
 *.zip
+
+test/
+
+train/
+
+validation/
+
+EC_dataset.zip/
